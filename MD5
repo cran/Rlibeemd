@@ -1,4 +1,4 @@
-35546244a7f8ab627448c0fd6be72d0b *DESCRIPTION
+a5bdea22840b01e6cd0777cbaa982d60 *DESCRIPTION
 65d94d5fad4979baa5c531cf65c20080 *NAMESPACE
 ad6b0a4c4a4dccc2a019693e63b2e100 *R/RcppExports.R
 988c1f417903d617a59342d76e2ec546 *R/Rlibeemd-package.R
@@ -9,9 +9,9 @@ b5ad42759069ac2cd020f43a336c7a9a *R/ecg.R
 176369f569bc243ee34c110630a20019 *R/emd_num_imfs.R
 a97193198f01b9bcc06ce02a613e5f2f *R/extrema.R
 cefc0427b8da37afd3e33a0892c1f2f5 *R/init.R
-3e4e464c09baf6c22e6b6b7615edff66 *cleanup
-b0866eaa4bee61a2b6ebb0986346bc5c *configure
-8ddb0e22b185d8e34e511cb05dd1e470 *configure.ac
+02601894a2ec1f5453f1135eed57ce09 *cleanup
+e295c4d40329e9f62716890ab040f087 *configure
+94ccdcfcb8f772ada8938c87390dda0b *configure.ac
 d41d8cd98f00b204e9800998ecf8427e *configure.win
 68817e49b16cdf08dd172ee5d7660cf3 *data/ECG.rda
 afe175f5d18e0a09e2d8130440f1e7f9 *inst/CITATION
